@@ -5,7 +5,14 @@ Comprehensive analysis of India's EV market for AtliQ Motors' expansion strategy
 ## Overview
 This project presents an in-depth analysis of India's electric vehicle (EV) market to support AtliQ Motors' expansion. The analysis covers the years 2022-2024, focusing on identifying sales trends, EV penetration rates, state performance, and competitor analysis in both 2-wheeler and 4-wheeler segments.
 
-Key insights are presented in an interactive Power BI dashboard designed for business stakeholders, including the Chief of AtliQ Motors India, Bruce Haryali, who values concise storytelling.
+## Problem Statement
+AtliQ Motors, an automotive giant from the USA specializing in electric vehicles (EVs), has seen its market share rise to 25% in North America’s electric and hybrid vehicle segments over the past five years. As part of their expansion plans, AtliQ Motors intends to launch their bestselling models in India, where their current market share is less than 2%. Bruce Haryali, the Chief of AtliQ Motors India, requested a detailed market study of India’s existing EV/hybrid market. The analysis task was assigned to Peter Pandey, a data analyst on the AtliQ Motors analytics team, to assess the market landscape and provide actionable insights to guide the company’s strategy.
+
+### Task Summary
+1. **Primary and Secondary Questions**: The analysis began with a focus on primary and secondary market questions provided by AtliQ Motors, using tools like Python, SQL, Power BI, and Excel to answer them.
+2. **Dashboard Creation**: A Power BI dashboard was designed to visualize key metrics and insights in a user-friendly format.
+3. **Additional Data and Insights**: Supplementary research supported the analysis and enhanced the strategic recommendations.
+4. **Engagement and Storytelling**: The project was presented through a concise, engaging video to communicate findings effectively, as per Bruce Haryali’s preference for storytelling.
 
 ## Project Objectives
 - **Market Positioning:** Provide insights into India's EV landscape to guide AtliQ Motors in scaling market presence from less than 2% to significant penetration.
@@ -74,5 +81,9 @@ In-depth analyses were conducted on:
 - **Competitor Pricing**: Recommended pricing strategy positions AtliQ Motors competitively in the mid-to-premium segment.
 - **Market Challenges**: Notable challenges include supply chain constraints and regulatory variations across states.
 - **Future Outlook**: EV sales are projected to grow steadily, with a 57.53% revenue growth rate from 2023 to 2024.
+
+## Acknowledgments
+This project was created as part of a challenge organized by the **CodeBasics** team. Special thanks to Bruce Haryali, the AtliQ Motors team, and CodeBasics for providing resources and guidance. Additionally, gratitude goes to **Vahan Sewa** for making their datasets publicly accessible and valuable for learning.
+
 ## License
 This project is intended for educational purposes, utilizing datasets sourced from Vahan Sewa.
