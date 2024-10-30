@@ -2,6 +2,19 @@ Comprehensive analysis of India's EV market for AtliQ Motors' expansion strategy
 
 # AtliQ Motors: India's EV Market Analysis
 
+## Table of Contents
+- [Overview](#overview)
+- [Problem Statement](#problem-statement)
+- [Task Summary](#task-summary)
+- [Project Objectives](#project-objectives)
+- [Key Datasets](#datasets)
+- [Dashboard Insights](#dashboard-insights)
+- [Key Findings](#key-findings)
+- [Recommendations](#recommendations)
+- [Additional Analyses](#additional-analyses)
+- [Acknowledgments](#acknowledgments)
+- [License](#license)
+- [Contact Information](#contact-information)
 ## Overview
 This project presents an in-depth analysis of India's electric vehicle (EV) market to support AtliQ Motors' expansion. The analysis covers the years 2022-2024, focusing on identifying sales trends, EV penetration rates, state performance, and competitor analysis in both 2-wheeler and 4-wheeler segments.
 
@@ -83,7 +96,12 @@ In-depth analyses were conducted on:
 - **Future Outlook**: EV sales are projected to grow steadily, with a 57.53% revenue growth rate from 2023 to 2024.
 
 ## Acknowledgments
-This project was created as part of a challenge organized by the **CodeBasics** team. Special thanks to Bruce Haryali, the AtliQ Motors team, and CodeBasics for providing resources and guidance. Additionally, gratitude goes to **Vahan Sewa** for making their datasets publicly accessible and valuable for learning.
+This project was created as part of a challenge organized by the **CodeBasics** team. Special thanks to CodeBasics for providing resources and guidance. Additionally, gratitude goes to **Vahan Sewa** for making their datasets publicly accessible and valuable for learning.
 
 ## License
 This project is intended for educational purposes, utilizing datasets sourced from Vahan Sewa.
+
+## Contact Information
+- **Author:** Rupsa Chaudhuri
+- [LinkedIn](https://www.linkedin.com/in/rupsa-chaudhuri/)
+- [GitHub Repository](https://github.com/rupsa723?tab=repositories)
