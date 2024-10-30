@@ -1,4 +1,4 @@
-Comprehensive analysis of India's EV market for AtliQ Motors' expansion strategy. This project includes detailed sales, penetration, and growth analyses across states and manufacturers, as well as a self-explanatory Power BI dashboard, insights on customer preferences, market trends, and future projections.
+Comprehensive analysis of India's EV market for AtliQ Motors' expansion strategy. This project is a part of Resume project challenge organised by CodeBasics and it includes detailed sales, penetration, and growth analyses across states and manufacturers, as well as a self-explanatory Power BI dashboard, insights on customer preferences, market trends, and future projections.
 
 # AtliQ Motors: India's EV Market Analysis
 
