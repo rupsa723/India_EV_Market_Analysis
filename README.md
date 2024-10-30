@@ -5,7 +5,6 @@ Comprehensive analysis of India's EV market for AtliQ Motors' expansion strategy
 ## Table of Contents
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
-- [Task Summary](#task-summary)
 - [Project Objectives](#project-objectives)
 - [Key Datasets](#datasets)
 - [Dashboard Insights](#dashboard-insights)
@@ -20,12 +19,6 @@ This project presents an in-depth analysis of India's electric vehicle (EV) mark
 
 ## Problem Statement
 AtliQ Motors, an automotive giant from the USA specializing in electric vehicles (EVs), has seen its market share rise to 25% in North America’s electric and hybrid vehicle segments over the past five years. As part of their expansion plans, AtliQ Motors intends to launch their bestselling models in India, where their current market share is less than 2%. Bruce Haryali, the Chief of AtliQ Motors India, requested a detailed market study of India’s existing EV/hybrid market. The analysis task was assigned to Peter Pandey, a data analyst on the AtliQ Motors analytics team, to assess the market landscape and provide actionable insights to guide the company’s strategy.
-
-### Task Summary
-1. **Primary and Secondary Questions**: The analysis began with a focus on primary and secondary market questions provided by AtliQ Motors, using tools like Python, SQL, Power BI, and Excel to answer them.
-2. **Dashboard Creation**: A Power BI dashboard was designed to visualize key metrics and insights in a user-friendly format.
-3. **Additional Data and Insights**: Supplementary research supported the analysis and enhanced the strategic recommendations.
-4. **Engagement and Storytelling**: The project was presented through a concise, engaging video to communicate findings effectively, as per Bruce Haryali’s preference for storytelling.
 
 ## Project Objectives
 - **Market Positioning:** Provide insights into India's EV landscape to guide AtliQ Motors in scaling market presence from less than 2% to significant penetration.
