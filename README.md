@@ -31,6 +31,9 @@ AtliQ Motors holds **25% market share in North America's EV segment** but less t
 | Seasonal peak | **March (Q4)** — driven by fiscal year-end purchases |
 
 ---
+<img width="1363" height="742" alt="image" src="https://github.com/user-attachments/assets/9234702e-a86b-4819-9ee2-3c116eaccb36" />
+
+
 
 ## 🔍 Analysis Approach
 ```
