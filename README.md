@@ -25,13 +25,13 @@ An automotive company with 25% EV market share in North America wants to enter I
 ---
 
 ## Dashboard Preview
-![Page 1 — The Big Picture](assets/<img width="1384" height="774" alt="image" src="https://github.com/user-attachments/assets/64becc93-8ab7-4d47-b235-f8518666ff39" />
+![Page 1 — The Big Picture](<img width="1384" height="774" alt="image" src="https://github.com/user-attachments/assets/64becc93-8ab7-4d47-b235-f8518666ff39" />
 )
-![Page 2 — Maker Analysis](assets/<img width="1385" height="781" alt="image" src="https://github.com/user-attachments/assets/adda00e0-322d-40e3-8abe-450a94e19dbe" />
+![Page 2 — Maker Analysis](<img width="1385" height="781" alt="image" src="https://github.com/user-attachments/assets/adda00e0-322d-40e3-8abe-450a94e19dbe" />
 )
-![Page 3 — State Analysis](assets/<img width="1384" height="778" alt="image" src="https://github.com/user-attachments/assets/09d296d2-76c6-4611-bca3-da0689d00669" />
+![Page 3 — State Analysis](<img width="1384" height="778" alt="image" src="https://github.com/user-attachments/assets/09d296d2-76c6-4611-bca3-da0689d00669" />
 )
-![Page 4 — The Opportunity](assets/<img width="1380" height="778" alt="image" src="https://github.com/user-attachments/assets/451dc56a-9e74-4546-848c-a36865604fa0" />
+![Page 4 — The Opportunity](<img width="1380" height="778" alt="image" src="https://github.com/user-attachments/assets/451dc56a-9e74-4546-848c-a36865604fa0" />
 )
 
 ---
@@ -78,7 +78,7 @@ Build inventory and dealer network in July–August (monsoon low, minimal noise)
 | `EV_Market_Dashboard.pbix` | Power BI dashboard — 4 pages |
 | `ev_market_queries.sql` | 10 SQL queries with analytical commentary |
 | `EV_charts.py` | 5 Python charts matching dashboard theme |
-| `India_EV_Executive_Report.pptx` | 11-slide executive presentation |
+| `India_EV_maket_Report.pptx` | 11-slide executive presentation |
 
 ---
 
