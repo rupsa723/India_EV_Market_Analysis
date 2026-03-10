@@ -25,7 +25,7 @@ An automotive company with 25% EV market share in North America wants to enter I
 ---
 
 ## Dashboard Preview
-![Page 1 — The Big Picture](assets/dashboard_p1.png)
+![Page 1 — Market Overview](assets/dashboard_p1.png)
 ![Page 2 — Maker Analysis](assets/dashboard_p2.png)
 ![Page 3 — State Analysis](assets/dashboard_p3.png)
 ![Page 4 — The Opportunity](assets/dashboard_p4.png)
@@ -73,7 +73,7 @@ Build inventory and dealer network in July–August (monsoon low, minimal noise)
 | `EV_Market_Dashboard.pbix` | Power BI dashboard — 4 pages |
 | `ev_market_queries.sql` | 10 SQL queries with analytical commentary |
 | `EV_charts.py` | 5 Python charts matching dashboard theme |
-| `India_EV_maket_Report.pptx` | 11-slide executive presentation |
+| `India_EV_market_Report.pptx` | 11-slide presentation |
 
 ---
 
