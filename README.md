@@ -25,15 +25,10 @@ An automotive company with 25% EV market share in North America wants to enter I
 ---
 
 ## Dashboard Preview
-![Page 1 — The Big Picture](<img width="1384" height="774" alt="image" src="https://github.com/user-attachments/assets/64becc93-8ab7-4d47-b235-f8518666ff39" />
-)
-![Page 2 — Maker Analysis](<img width="1385" height="781" alt="image" src="https://github.com/user-attachments/assets/adda00e0-322d-40e3-8abe-450a94e19dbe" />
-)
-![Page 3 — State Analysis](<img width="1384" height="778" alt="image" src="https://github.com/user-attachments/assets/09d296d2-76c6-4611-bca3-da0689d00669" />
-)
-![Page 4 — The Opportunity](<img width="1380" height="778" alt="image" src="https://github.com/user-attachments/assets/451dc56a-9e74-4546-848c-a36865604fa0" />
-)
-
+![Page 1 — The Big Picture](assets/dashboard_p1.png)
+![Page 2 — Maker Analysis](assets/dashboard_p2.png)
+![Page 3 — State Analysis](assets/dashboard_p3.png)
+![Page 4 — The Opportunity](assets/dashboard_p4.png)
 ---
 
 ## What the Data Says
