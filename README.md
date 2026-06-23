@@ -29,6 +29,37 @@
 
 ---
 
+## The full picture
+
+### The market is maturing, not stalling
+India sold 2M+ EVs in three years, growing 4× in volume. YoY growth cooled from 186% to 31.5% — a normal maturation curve, not a slowdown. The number that matters: **95 of every 100 vehicles sold is still non-electric.** The headroom is enormous.
+
+### 4-wheelers win the value war
+2-wheelers dominate volume (92.6% of units) but 4-wheelers generate **62% of revenue from just 7.4% of sales**. 4W grew at 116% CAGR vs 92% for 2W, and accelerated in FY24 (83% YoY vs 28%). A single 4W EV earns **17.6× the revenue** of a 2W.
+
+### No incumbent owns the 4W segment yet
+Tata leads with 48K units in FY24 — strong, but no monopoly. Mahindra, MG, and Hyundai are all climbing fast. BYD grew 566% CAGR off a tiny base — a 3–5 year watch signal, not a today threat. There's still room to enter.
+
+### Karnataka's demand is organic
+Karnataka's 11.6% penetration beats Delhi's 9.4% *despite* Delhi's ₹30K purchase subsidies and road-tax waivers. Adoption driven by Bengaluru's tech economy is more durable than incentive-propped demand — and a safer long-term bet.
+
+### Timing follows a clear rhythm
+March drives 291K units (fiscal year-end fleet buys, subsidy deadlines); June drops to 107K at monsoon onset. October–December form a festive secondary peak — the ideal launch window.
+
+---
+
+## How I built it
+
+| Stage | Tool | What I did |
+|-------|------|------------|
+| **Extract & clean** | MySQL | Cleaned and structured 2M+ raw registration records |
+| **Analyze** | SQL | 10 analytical queries on segment, state & time trends |
+| **Visualize** | Python | 5 charts (Matplotlib/Seaborn) matching dashboard theme |
+| **Dashboard** | Power BI + DAX | 4-page interactive dashboard with custom measures |
+| **Communicate** | PowerPoint | 11-slide executive deck with the strategic recommendation |
+
+---
+
 ## What's inside
 
 | File | Description |
